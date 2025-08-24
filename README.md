@@ -38,7 +38,8 @@ This project was created during the **OpenAI Academy x NxtWave Buildathon Worksh
 ## 📸 Workflow Preview
 Here’s a glimpse of the workflow in action:  
 
-![Workflow Screenshot](./screenshots/workflow.png)  
+<img width="1467" height="753" alt="Screenshot 2025-08-24 190502" src="https://github.com/user-attachments/assets/bfeb973c-d22d-4f41-a7e8-6e2a442d897f" />
+
 
 ---
 
@@ -57,4 +58,3 @@ Part of the **#BuildForBharat** initiative.
 
 ## 📜 License
 This project is licensed under the MIT License.  
-<img width="1467" height="753" alt="Screenshot 2025-08-24 190502" src="https://github.com/user-attachments/assets/bfeb973c-d22d-4f41-a7e8-6e2a442d897f" />
